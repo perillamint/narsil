@@ -1,4 +1,8 @@
 [package]
 name = "narsild"
 version = "0.1.0"
-authors = ["perillamint <perillamint@gmail.com>"]
+authors = ["perillamint <perillamint@gentoo.moe>"]
+
+[dependencies]
+hyper = "0.6.14"
+toml = "0.1.22"
